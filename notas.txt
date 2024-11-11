@@ -1,0 +1,24 @@
+portfolio/
+├── index.html       // Página principal do portfólio
+├── game.html        // Página do jogo Senha
+├── style.css        // Estilos CSS gerais
+├── script.js        // Scripts JS principais
+└── game.js          // Script específico para o jogo Senha
+
+
+Código Secreto: A função generateCode cria um código de 4 dígitos únicos.
+Tentativas e Resultado: Cada tentativa exibe a quantidade de "bulls" (dígitos corretos na posição certa) e "cows" (dígitos corretos na posição errada).
+Ordem das Tentativas: Cada nova tentativa é adicionada ao topo da lista, mantendo a última tentativa mais próxima do campo de entrada.
+Botão de Mostrar Código: O botão exibe o código secreto atual.
+
+
+
+Incluir Greirat com foto e sumario
+
+Cursos de Pentest 
+
+
+# Contato 
+Github
+LinkedIn
+Gmail
